@@ -1,1 +1,1 @@
-# -amazon-sagemaker-ml-pipeline-deploy-with-cdk
+# amazon-sagemaker-ml-pipeline-deploy-with-cdk
